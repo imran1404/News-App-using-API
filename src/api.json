@@ -1,0 +1,46 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Alexander Smith, Associated Press, Reuters",
+            "title": "Major study finds omicron more vaccine resistant, causes milder illness in South Africa - NBC News",
+            "description": "The omicron Covid-19 variant appeared to cause less severe illness in South Africa but was more resistant to the Pfizer vaccine, according to the first major real-world study",
+            "url": "https://www.nbcnews.com/news/world/omicron-covid-variant-resistant-pfizer-vaccine-south-africa-rcna8678",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211214-sa-omicron-mb-1022-3247ef.jpg",
+            "publishedAt": "2021-12-14T16:25:09Z",
+            "content": "The first major real-world study of the omicron Covid-19 variant found that it appeared to cause less severe illness in South Africa, where it was first discovered last month, but that two doses of t… [+4057 chars]"
+        },
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Tim Stelloh",
+            "title": "Health care workers in Minnesota are 'overwhelmed,' 'heartbroken,' executives say - NBC News",
+            "description": "Health care executives in Minnesota pleaded with unvaccinated people Sunday to stop the spread of Covid-19, saying that nearly two years into the pandemic,",
+            "url": "https://www.nbcnews.com/news/us-news/health-care-workers-minnesota-are-overwhelmed-heartbroken-executives-s-rcna8649",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211213-minnesota-covid-hospital-se-631p-7bbce7.jpg",
+            "publishedAt": "2021-12-14T16:20:00Z",
+            "content": "Health care executives in Minnesota pleaded with unvaccinated people Sunday to stop the spread of Covid-19, saying that nearly two years into the pandemic, doctors, nurses and others across the state… [+1515 chars]"
+        },
+        
+        {
+            "source": {
+                "id": "nbc-news",
+                "name": "NBC News"
+            },
+            "author": "Deon J. Hampton",
+            "title": "Kentucky tornado: Factory workers threatened with firing if they left before tornado, employees say - NBC News",
+            "description": "heard the warning sirens and wanted to",
+            "url": "https://www.nbcnews.com/news/us-news/kentucky-tornado-factory-workers-threatened-firing-left-tornado-employ-rcna8581",
+            "urlToImage": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2021-12/211213-mayfield-candle-factory-1-cs-1131a-62f9f3.jpg",
+            "publishedAt": "2021-12-14T12:49:00Z",
+            "content": "MAYFIELD, Ky. As a catastrophic tornado approached this city Friday, employees of a candle factory which would later be destroyed heard the warning sirens and wanted to leave the building. But at lea… [+5810 chars]"
+        }
+    ]
+}
